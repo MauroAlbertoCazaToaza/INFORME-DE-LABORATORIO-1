@@ -70,6 +70,7 @@ Debemos tener en cuenta que vamos a tomar con signo positivo las corrientes que 
 ## 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.<br>
 
+[![VOLTAJES.png](https://i.postimg.cc/t49wp8zG/VOLTAJES.png)](https://postimg.cc/PPF2M3cS)
 [![TABLA1.png](https://i.postimg.cc/GtQ2TF07/TABLA1.png)](https://postimg.cc/FkYm2JH3)<br>
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.<br>
 
@@ -83,6 +84,7 @@ Tabla 1.2. Verificación de la LVK.<br>
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.<br>
 
+[![INTENSIDAD-CORRIENTES.png](https://i.postimg.cc/QdMm6DbC/INTENSIDAD-CORRIENTES.png)](https://postimg.cc/nC6qz6Nf)
 
 [![tabla3.png](https://i.postimg.cc/XNZ5qJvn/tabla3.png)](https://postimg.cc/YjH0ytgP)<br>
 Tabla 1.3. Verificación de la LCK.<br>
@@ -95,7 +97,8 @@ El margen de error presente fue por milesimas ya que Thinkercad redondeo a dos c
 ## 5.VIDEO
 
 ## 6.CONCLUSIONES 
-•	En el presente informe de laboratorio se verifico el desempeño correcto de las leyes de Kirchhoff mediante las mediciones oportunas que se realizaron en el circuito eléctrico. Es importante recordar que para aplicar las leyes ya mencionadas en un circuito eléctrico se debe tomar en cuenta la dirección de cada elemento.
-•	Gracias al análisis y construcción del circuito se apresuró a comprender que las Leyes de Kirchhoff son dos desigualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos.
-•	Por lo tanto, las Leyes de Kirchhoff cumplen un rol importante dentro del estudio de la electricidad y la electrónica puesto que cuenta con numerosas aplicaciones.
+•	En el presente informe de laboratorio se verifico el desempeño correcto de las leyes de Kirchhoff mediante las mediciones oportunas que se realizaron en el circuito eléctrico. Es importante recordar que para aplicar las leyes ya mencionadas en un circuito eléctrico se debe tomar en cuenta la dirección de cada elemento.<br>
+•	Gracias al análisis y construcción del circuito se apresuró a comprender que las Leyes de Kirchhoff son dos desigualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos.<br>
+•	Por lo tanto, las Leyes de Kirchhoff cumplen un rol importante dentro del estudio de la electricidad y la electrónica puesto que cuenta con numerosas aplicaciones.<br>
+
 
