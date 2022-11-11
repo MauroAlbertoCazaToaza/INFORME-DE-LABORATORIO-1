@@ -106,3 +106,5 @@ https://youtu.be/jWEF3pHFkUQ
 •	Por lo tanto, las Leyes de Kirchhoff cumplen un rol importante dentro del estudio de la electricidad y la electrónica puesto que cuenta con numerosas aplicaciones.<br>
 
 ## 7.BIBLIOGRAFIA
+Anónimo. (2021). Leyes de Kirchhoff. 2022, Noviembre 7, de Mecatronica Latam. Sitio web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/<br>
+Willy McAllister. (s.f). La ley del voltaje de Kirchhoff. 2022, Noviembre 7, de Khan Academy. Sitio web: https://es.khanacademy.org/science/ap-physics-1/ap-circuits-topic/kirchhoffs-loop-rule-ap/v/ee-kirchhoffs-voltage-law
