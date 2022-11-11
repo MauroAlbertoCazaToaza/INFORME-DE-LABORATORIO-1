@@ -33,8 +33,8 @@ Elaboramos nuestro circuito mediante la plataforma Tinkercad para cual ocupamos 
 [![CIRCUITO.png](https://i.postimg.cc/y8Gw6MZW/CIRCUITO.png)](https://postimg.cc/BjxhMwNG)
 
 ### MEDICION Y CALCULO DE VOLTAJE Y CORRIENTE DE LOS ELEEMNTOS DEL CIRCUITO
-[![MALLA1.png](https://i.postimg.cc/hjDw2KFy/MALLA1.png)](https://postimg.cc/jW1Z50SP)
-[![MALLA2.png](https://i.postimg.cc/8cW05cLC/MALLA2.png)](https://postimg.cc/dZsBNqHM)
+[![malla11.png](https://i.postimg.cc/KjqFfTMc/malla11.png)](https://postimg.cc/4H9rNmPj)
+[![malla22.png](https://i.postimg.cc/qRH76289/malla22.png)](https://postimg.cc/zLpN9b2j)
 [![I1-Y-I2.png](https://i.postimg.cc/VL0YqWWS/I1-Y-I2.png)](https://postimg.cc/KRFSFLVF)
 
 Una vez que obtenemos las Intensidades procedemos a calcular los Voltajes y Intensidades mediante la Ley de Ohm<br>
