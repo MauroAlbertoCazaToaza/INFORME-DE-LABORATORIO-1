@@ -98,7 +98,7 @@ Los resultados que medimos nos ayudaron a comprobar que las leyes de Kirchhoff t
 El margen de error presente fue por milesimas ya que Thinkercad redondeo a dos cifras los valores pero los resultados fueron los mismos tanto de la simulacion como los calculos.
 
 ## 5.VIDEO
-https://uespe.sharepoint.com/:v:/s/XD160/EWX4F7JrgclIggjL3r6ub4MBJMOMuTQKgcplcYCr_D5r2A?e=BEJtEP
+https://youtu.be/zx_uR3kC0bQ
 
 ## 6.CONCLUSIONES 
 •	En el presente informe de laboratorio se verifico el desempeño correcto de las leyes de Kirchhoff mediante las mediciones oportunas que se realizaron en el circuito eléctrico. Es importante recordar que para aplicar las leyes ya mencionadas en un circuito eléctrico se debe tomar en cuenta la dirección de cada elemento.<br>
